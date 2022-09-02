@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 publication: "*Social Science Computer Review"
 featured: true
-date: 2015-09-01T00:00:00Z
+date: 2022-09-01T00:00:00Z
 url_slides: ""
 title: A Text Mining Approach to Determinants of Attitude Towards Syrian
   Immigration in the Turkish Twittersphere
