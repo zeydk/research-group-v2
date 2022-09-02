@@ -1,6 +1,6 @@
 ---
 title: Muhammed Hasan Celik
-role: Data Scientist
+role: The chief data scientist
 avatar_filename: avatar.png
 social: []
 organizations:
@@ -8,6 +8,5 @@ organizations:
 superuser: false
 user_groups:
   - Data Scientists
-  - Principal Investigators
 ---
 University of California Irvine, Irvine, CA, USA
