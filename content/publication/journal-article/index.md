@@ -50,7 +50,7 @@ image:
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: " https://doi.org/10.1177/08944393221117460"
+doi: "10.1177/08944393221117460"
 ---
 {{% callout note %}}
 
