@@ -1,5 +1,5 @@
 ---
-role: Social Researcher
+role: Team Coordinator
 avatar_filename: avatar.jpg
 bio: My research interests include race and ethnicity, human geography,
   immigrant incorporation and social policy.
@@ -34,7 +34,6 @@ education:
 superuser: true
 user_groups:
   - Social Researchers
-  - Principal Investigators
 highlight_name: false
 title: Huseyin Zeyd Koytak
 email: ""
