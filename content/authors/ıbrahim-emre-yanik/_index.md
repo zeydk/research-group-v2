@@ -9,7 +9,7 @@ education:
       institution: Bogazici University
 superuser: false
 user_groups:
-  - Researchers
+  - Social Researchers
 ---
 <!--StartFragment-->
 
