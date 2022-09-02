@@ -1,5 +1,5 @@
 ---
-title: Our research on Syrian Immigration to Turkey is now online
+title: Our research on Syrian Immigration to Turkey is now published online
 date: 2022-09-02T20:22:32.481Z
 draft: false
 featured: false
