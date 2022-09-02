@@ -1,5 +1,5 @@
 ---
-title: Muhammed Hasan Çelik
+title: Muhammed Hasan Celik
 role: Data Scientist
 avatar_filename: avatar.png
 social: []
