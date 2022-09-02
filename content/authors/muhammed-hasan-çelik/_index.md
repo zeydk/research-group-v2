@@ -1,6 +1,6 @@
 ---
 title: Muhammed Hasan Celik
-role: The chief data scientist
+role: The Chief Data Scientist
 avatar_filename: avatar.png
 social: []
 organizations:
