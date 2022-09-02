@@ -22,6 +22,8 @@ content:
     - Administration
     - Visitors
     - Alumni
+    - Social Researchers
+    - Data Scientists
 design:
   show_interests: false
   show_role: true
