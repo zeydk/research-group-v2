@@ -34,6 +34,7 @@ education:
 superuser: true
 user_groups:
   - Social Researchers
+  - Principal Investigators
 highlight_name: false
 title: Huseyin Zeyd Koytak
 email: ""
