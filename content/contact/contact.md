@@ -15,7 +15,6 @@ subtitle: Please contact us for inquires about our research, or to give us a fee
 content:
   # Contact (edit or remove options as required)
 
-  email: hkoytak@syr.edu
   
   #contact_links:
   #  - icon: comments
