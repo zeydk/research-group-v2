@@ -33,7 +33,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: "*Social Science Computer Review"
-featured: false
+featured: true
 date: 2015-09-01T00:00:00Z
 url_slides: ""
 title: A Text Mining Approach to Determinants of Attitude Towards Syrian
@@ -43,17 +43,15 @@ tags:
 projects:
   - How does Turkish Twitter discuss Syrian Immigration to Turkey?
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: afad_kilis_kampı.jpg
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 doi: " https://doi.org/10.1177/08944393221117460"
 ---
-
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+{{% /callout %}}
