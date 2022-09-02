@@ -32,7 +32,7 @@ author_notes:
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "*Social Science Computer Review"
+publication: "Social Science Computer Review"
 featured: true
 date: 2022-09-01T00:00:00Z
 url_slides: ""
