@@ -15,12 +15,12 @@ abstract: "This study uses novel deep learning-based language models to extract
   immigrant-hosting societies, our research has international appeal beyond its
   specific geographical context."
 slides: null
-url_pdf:
+url_pdf: null
 publication_types:
   - "2"
 authors:
   - admin
-  - Muhammed Hasan Çelik
+  - Muhammed Hasan Celik
 summary: "This study uses novel deep learning-based language models to extract
   meaningful information from vast chunks of textual data from Twitter on the
   competing narratives of the recent Syrian immigration to Turkey. "
@@ -32,9 +32,9 @@ author_notes:
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "Social Science Computer Review"
+publication: Social Science Computer Review
 featured: true
-date: 2022-09-01T00:00:00Z
+date: 2022-09-01T00:00:00.000Z
 url_slides: ""
 title: A Text Mining Approach to Determinants of Attitude Towards Syrian
   Immigration in the Turkish Twittersphere
@@ -47,10 +47,10 @@ image:
   focal_point: ""
   preview_only: false
   filename: afad_kilis_kampı.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: "10.1177/08944393221117460"
+doi: 10.1177/08944393221117460
 ---
 {{% callout note %}}
 
