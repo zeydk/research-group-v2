@@ -1,23 +1,18 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+advanced:
+  ? css_style
+  ? css_class
+widget: hero
+widget_id: ana-sayfa
+headless: true
+weight: 10
+title: Computational Social Research
+subtitle: ""
+active: true
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "2"
+  background:
+    image: ""
+hero_media: welcome.jpg
 ---
-
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Twittersphere is an independent multidisciplinary research circle, performing computational social research. We incorporate socially meaningful and theoretically informed research into cutting-edge computational tools to address various critical social problems, including migration, education, public health, and far-right extremism.
