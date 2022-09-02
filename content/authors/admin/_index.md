@@ -33,7 +33,7 @@ education:
       year: 2016
 superuser: true
 user_groups:
-  - Researchers
+  - Social Researchers
 highlight_name: false
 title: Huseyin Zeyd Koytak
 email: ""
