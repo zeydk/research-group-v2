@@ -7,5 +7,5 @@ organizations:
   - name: University of California Irvine
 superuser: false
 user_groups:
-  - Researchers
+  - Data Scientists
 ---
